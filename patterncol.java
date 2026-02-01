@@ -4,6 +4,7 @@ public class patterncol {
         {
             System.out.print("* \n");
 
-    }
+    
 }
 }
+
