@@ -10,8 +10,9 @@ public class evenrowmatrix {
                     System.out.print("0 ");
                 }
             }
-            System.out.print();
+            System.out.println();
         }
     }
 
 }
+
